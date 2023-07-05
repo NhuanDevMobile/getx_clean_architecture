@@ -6,9 +6,6 @@
 
 # GetX Clean Architecture
 
-A Flutter Clean Architecture Using [GetX](https://github.com/jonataslaw/getx).
-
-This repo is forked from: https://github.com/phamdinhduc795397/flutter-getx-clean-architecture
 
 ## Work Flow
 
